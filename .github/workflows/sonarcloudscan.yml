@@ -43,7 +43,6 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         shell: powershell
         run: |
-          #dotnet tool install --global dotnet-sonarscanner
-          .\.sonar\scanner\dotnet-sonarscanner begin /k:"SonarSource_sonarcloud-github-action-samples" /o:"sonarsource" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+         .\.sonar\scanner\dotnet-sonarscanner begin /k:"Subhas-CalcService" /o:"subhas-dev" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://www.sonarcloud.io"
           dotnet build SampleCalcService.sln
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
