@@ -1,0 +1,11 @@
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcServiceApp\bin\SampleCalcServiceApp.dll.config
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcServiceApp\bin\SampleCalcServiceApp.dll
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcServiceApp\bin\SampleCalcServiceApp.pdb
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcServiceApp\bin\SampleCalcService.dll
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcServiceApp\bin\SampleCalcService.pdb
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcServiceApp\bin\SampleCalcService.dll.config
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcServiceApp\obj\Debug\SampleCalcServiceApp.csprojAssemblyReference.cache
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcServiceApp\obj\Debug\SampleCalcServiceApp.csproj.CoreCompileInputs.cache
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcServiceApp\obj\Debug\SampleCalcServiceApp.csproj.CopyComplete
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcServiceApp\obj\Debug\SampleCalcServiceApp.dll
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcServiceApp\obj\Debug\SampleCalcServiceApp.pdb
